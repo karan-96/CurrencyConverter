@@ -3,7 +3,7 @@
     $( "#FRO_M" ).selectmenu();   // selecting currencies
     $( "#TO_BE" ).selectmenu();
 	$(function() {
-    var availableTags = [        //search functionality for various currencies (mainly country wise)
+    var availableTags = [        //search functionality
       "AUD-Australian Dollar",
       "BGN-Bulgarian Lev",
       "BRL-Brazilian Real",
