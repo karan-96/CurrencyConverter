@@ -1,1 +1,1 @@
-# CurrencyConverter by Karan Batra
+# CurrencyConverter in JavaScript
